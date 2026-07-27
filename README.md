@@ -48,7 +48,6 @@
         </table>
       </td>
       <td valign="top" align="right" width="180">
-        <!-- FIXED: Uses GitHub's automatic avatar fetcher. Replace 'ilyassboudade' with your exact GitHub username if different -->
         <img src="https://github.com/ilyassboudade.png" width="170" height="170" style="object-fit: cover; border-radius: 50%; border: 3px solid rgba(255,255,255,0.2);" alt="Ilyass BOUDADE" />
       </td>
     </tr>
@@ -57,14 +56,14 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td align="center">
-              <!-- FIXED: Replaced homepage links with actual working Shields.io badge URLs -->
-              <a href="https://github.com/ilyassboudade" style="text-decoration: none; margin: 0 10px;">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="vertical-align: middle;" alt="GitHub" />
+              <!-- REPLACED: GitHub with Codeberg -->
+              <a href="https://codeberg.org/ilyassboudade" style="text-decoration: none; margin: 0 10px;">
+                <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" height="28" style="vertical-align: middle;" alt="Codeberg" />
               </a>
-              <a href="https://behance.net/your-username" style="text-decoration: none; margin: 0 10px;">
+              <a href="https://behance.net/ilyassboudade" style="text-decoration: none; margin: 0 10px;">
                 <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" height="28" style="vertical-align: middle;" alt="Behance" />
               </a>
-              <a href="https://your-cv-link.com" style="text-decoration: none; margin: 0 10px;">
+              <a href="" style="text-decoration: none; margin: 0 10px;">
                 <img src="https://img.shields.io/badge/Resume/CV-000000?style=for-the-badge&logo=docsend&logoColor=white" height="28" style="vertical-align: middle;" alt="CV" />
               </a>
             </td>

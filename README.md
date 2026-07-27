@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&lines=You+are+watching+a+master+at+work.;Software+Engineer;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&lines=YOU+ARE+WATCHING+A+MASTER+AT+WORK.;Software+Engineering;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ilyass%20BOUDADE&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Ilyass BOUDADE" />

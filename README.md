@@ -26,14 +26,14 @@
           </tr>
           <tr>
             <td style="padding-bottom: 18px;">
-              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Age</div>
-              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400;">21</div>
+              <div style="font-size: 24px; margin-bottom: 4px;"><b>Age</b></div>
+              <div style="font-size: 18px; color: #E0E2EC;">22</div>
             </td>
           </tr>
           <tr>
             <td style="padding-bottom: 18px;">
-              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Activity</div>
-              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400; line-height: 1.4;">
+              <div style="font-size: 24px; margin-bottom: 4px;"><b>Activity</b></div>
+              <div style="font-size: 18px; color: #E0E2EC; line-height: 1.4;">
                 Future AI Software Engineer<br>
                 Video Editor
               </div>
@@ -41,8 +41,8 @@
           </tr>
           <tr>
             <td style="padding-bottom: 25px;">
-              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Status</div>
-              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400;">Offline / Looking for PFE Internship</div>
+              <div style="font-size: 24px; margin-bottom: 4px;"><b>Status</b></div>
+              <div style="font-size: 18px; color: #E0E2EC;">Offline</div>
             </td>
           </tr>
         </table>

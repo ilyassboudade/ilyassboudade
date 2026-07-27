@@ -68,20 +68,16 @@
 
 ### 🔥 What I'm up to:
 - 🤖 Exploring **Artificial Intelligence, Advanced Software Engineering, Data Science, Computer Vision**
-- 🔭 Currently working on **Data Centric and AI-Powered Software Solutions**
+- 👨🏻‍💻 Currently working on **Data Centric and AI-Powered Software Solutions**
 - 🫱🏻‍🫲🏻 Willing to collaborate on any kind of **Open Source Projects**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ilyassboudade?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ilyass?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=534d41&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ilyassboudade?color=534d41&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ilyass?color=534d41&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
 </p>
-<p align=center>
-  <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="WakaTime" />
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="Uptime" />
+  </a>
 </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilyassboudade&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilyassboudade&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyassboudade&amp;custom_title=Activity%20Graph&amp;bg_color=0d1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
-</div>

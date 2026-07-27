@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&lines=YOU+ARE+WATCHING+A+MASTER+AT+WORK.;Software+Engineering;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering)
 
-![Ilyass BOUDADE](https://capsule-render.vercel.app/api?type=rounded&height=150&color=534d41&text=Ilyass%20BOUDADE&fontColor=dfddcf&textBg=false&reversal=false&animation=twinkling&fontSize=70)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ilyassboudade?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />

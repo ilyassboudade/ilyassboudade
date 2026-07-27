@@ -13,9 +13,9 @@
     <tr>
       <!-- Profile Picture Slot -->
       <td width="120" valign="top" align="center">
-        <img src="https://github.com" width="100" style="border-radius: 50%; border: 2px solid #58a6ff;" />
+        <img src="[https://github.com](https://avatars.githubusercontent.com/u/304276713?v=4)" width="100" style="border-radius: 50%; border: 2px solid #58a6ff;" />
         <br><br>
-        <code style="color: #8b949e;">DEVELOPER ID</code>
+        <code style="color: #8b949e;">ID: ilyassboudade</code>
       </td>
       <!-- Information Slot -->
       <td valign="top" style="color: #c9d1d9;">

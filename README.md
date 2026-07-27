@@ -72,7 +72,6 @@
 - 🫱🏻‍🫲🏻 Willing to collaborate on any kind of **Open Source Projects**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=dfddcf&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ilyassboudade?color=dfddcf&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ilyass?color=dfddcf&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
 </p>

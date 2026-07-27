@@ -1,7 +1,7 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;width=435&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Aymen;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Syno&size=30&duration=3000&pause=1000&color=00D4FF&width=650&lines=You+are+watching+a+master+at+work.;Software+Engineer;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Aymen%20Chabbaki&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Aymen Chabbaki" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ilyass%BOUDADE&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Aymen Chabbaki" />
 </div>
 
 <p align="center">

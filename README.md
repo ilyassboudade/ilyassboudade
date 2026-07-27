@@ -33,9 +33,8 @@
           <tr>
             <td style="padding-bottom: 18px;">
               <div style="font-size: 24px; margin-bottom: 4px;"><b>Activity</b></div>
-              <div style="font-size: 18px; color: #E0E2EC; line-height: 1.4;">
-                Future AI Software Engineer<br>
-                Video Editor
+              <div style="font-size: 18px; color: #E0E2EC;">
+                Future AI Software Engineer
               </div>
             </td>
           </tr>
@@ -56,7 +55,6 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td align="center">
-              <!-- REPLACED: GitHub with Codeberg -->
               <a href="https://codeberg.org/ilyassboudade" style="text-decoration: none; margin: 0 10px;">
                 <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" height="28" style="vertical-align: middle;" alt="Codeberg" />
               </a>
@@ -74,35 +72,14 @@
   </table>
 </div>
 
-
-
-## 🚀 About Me
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Coding Animation" />
-
-```typescript
-const aymen = {
-  name: "Aymen Chabbaki",
-  location: "Casablanca, Morocco 🇲🇦",
-  title: "Full Stack Developer & Future AI Engineer",
-  education: "Licence d'Excellence in AI @ Hassan II University",
-  passions: ["Artificial Intelligence", "Full Stack Development", "Innovation"],
-  currentlyLearning: ["Deep Learning", "Computer Vision", "Advanced React Patterns"],
-  askMeAbout: ["React", "Node.js", "Python", "AI/ML", "System Design"],
-  funFact: "I debug code with the same passion I have for creating it! 🐛➡️✨"
-};
-```
-
 ### 🔥 What I'm up to:
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Advanced Machine Learning & Deep Learning**
-- 👯 Looking to collaborate on **Open Source AI projects**
-- 💬 Ask me about **Full Stack Development, AI, or anything tech!**
-- ⚡ Fun fact: **I can solve a Rubik's cube while thinking about algorithms!**
+- 🤖 Exploring **Artificial Intelligence, Advanced Software Engineering, Data Science, Computer Vision**
+- 🔭 Currently working on **Data Centric and AI-Powered Software Solutions**
+- 🫱🏻‍🫲🏻 Willing to collaborate on any kind of **Open Source Projects**
 
 ---
               
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -223,19 +200,6 @@ const aymen = {
 
 ---
 
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-chabbaki-b4093829b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AymanChabbaki)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanchabbaki09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.devhermanos.me)
-
-</div>
-
----
-
 <div align="center">
   
 ### 💭 Quote of the Day
@@ -254,37 +218,10 @@ const aymen = {
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fcpknh60voxdyum9tknp750j5&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&mode=light)" alt="Spotify Now Playing" />
-</div>
-
----
-
 <div align="center">
   
 ### 🐍 Watch my contribution graph get eaten by a snake!
 
-<img src="https://raw.githubusercontent.com/AymanChabbaki/AymanChabbaki/output/github-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/ilyassboudade/ilyassboudade/output/github-snake.svg" alt="Snake Animation" />
 
 </div>
-
----
-
-<div align="center">
-  
-### ✨ Thank you for visiting! ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;width=800&amp;lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+for+collaborations!;Happy+Coding!+%F0%9F%9A%80" alt="Closing Message" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=120&amp;section=footer&amp;animation=twinkling" />
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/AymanChabbaki">AymenChabbaki</a> with ❤️</sub>
-</div>
-

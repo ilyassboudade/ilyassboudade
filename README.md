@@ -9,28 +9,79 @@
 </p> -->
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" width="400" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; font-family: sans-serif;">
+  <table border="0" cellpadding="0" cellspacing="0" width="550" style="background-color: #24305E; border-radius: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #FFFFFF; padding: 40px; border-collapse: separate;">
     <tr>
-      <!-- Profile Picture Slot -->
-      <td width="120" valign="top" align="center">
-        <img src="[https://github.com](https://avatars.githubusercontent.com/u/304276713?v=4)" width="100" style="border-radius: 50%; border: 2px solid #58a6ff;" />
-        <br><br>
-        <code style="color: #8b949e;">ID: ilyassboudade</code>
+      <td colspan="2" align="center" style="padding-bottom: 25px;">
+        <span style="font-size: 38px; font-weight: 600; letter-spacing: 0.5px;">Identity Card</span>
       </td>
-      <!-- Information Slot -->
-      <td valign="top" style="color: #c9d1d9;">
-        <h3 style="margin-top: 0; color: #58a6ff;">Your Full Name</h3>
-        <p style="margin: 5px 0;"><strong>Role:</strong> Full-Stack Engineer</p>
-        <p style="margin: 5px 0;"><strong>Location:</strong> Earth</p>
-        <p style="margin: 5px 0;"><strong>Status:</strong> 🚀 Building things</p>
-        <p style="margin: 15px 0 0 0;">
-          <a href="https://linkedin.com"><img src="https://shields.io" /></a>
-          <a href="mailto:your-email@example.com"><img src="https://shields.io" /></a>
-        </p>
+    </tr>
+    <tr>
+      <!-- Left Column: Personal Information -->
+      <td valign="top" style="padding-right: 20px;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td style="padding-bottom: 18px;">
+              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Full Name</div>
+              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400;">Ilyass BOUDADE</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 18px;">
+              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Age</div>
+              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400;">21</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 18px;">
+              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Activity</div>
+              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400; line-height: 1.4;">
+                Future AI Software Engineer<br>
+                Video Editor
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 25px;">
+              <div style="font-size: 24px; font-weight: 600; margin-bottom: 4px;">Status</div>
+              <div style="font-size: 18px; color: #E0E2EC; font-weight: 400;">Offline / Looking for PFE Internship</div>
+            </td>
+          </tr>
+        </table>
+      </td>
+      
+      <!-- Right Column: Profile Picture -->
+      <td valign="top" align="right" width="180">
+        <!-- REPLACE THE IMAGE URL BELOW WITH YOUR GITHUB IMAGE OR AN IMAGE LINK -->
+        <img src="https://github.com" width="170" height="170" style="object-fit: cover; border: 1px solid rgba(255,255,255,0.1);" alt="Ilyass BOUDADE" />
+      </td>
+    </tr>
+    
+    <!-- Bottom Footer Row -->
+    <tr>
+      <td colspan="2" style="border-top: 1px solid rgba(255, 255, 255, 0.4); padding-top: 20px;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="left">
+              <!-- GitHub Link -->
+              <a href="https://github.com" style="text-decoration: none; margin-right: 15px;">
+                <img src="https://shields.io" height="28" style="vertical-align: middle;" />
+              </a>
+              <!-- Behance Link -->
+              <a href="https://behance.net" style="text-decoration: none; margin-right: 15px;">
+                <img src="https://shields.io" height="28" style="vertical-align: middle;" />
+              </a>
+              <!-- CV / Resume Link -->
+              <a href="https://your-cv-link.com" style="text-decoration: none;">
+                <img src="https://shields.io" height="28" style="vertical-align: middle;" />
+              </a>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🚀 About Me

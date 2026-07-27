@@ -8,6 +8,31 @@
   <img src="https://img.shields.io/github/stars/ilyass?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
 </p> -->
 
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" width="400" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; font-family: sans-serif;">
+    <tr>
+      <!-- Profile Picture Slot -->
+      <td width="120" valign="top" align="center">
+        <img src="https://github.com" width="100" style="border-radius: 50%; border: 2px solid #58a6ff;" />
+        <br><br>
+        <code style="color: #8b949e;">DEVELOPER ID</code>
+      </td>
+      <!-- Information Slot -->
+      <td valign="top" style="color: #c9d1d9;">
+        <h3 style="margin-top: 0; color: #58a6ff;">Your Full Name</h3>
+        <p style="margin: 5px 0;"><strong>Role:</strong> Full-Stack Engineer</p>
+        <p style="margin: 5px 0;"><strong>Location:</strong> Earth</p>
+        <p style="margin: 5px 0;"><strong>Status:</strong> 🚀 Building things</p>
+        <p style="margin: 15px 0 0 0;">
+          <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+          <a href="mailto:your-email@example.com"><img src="https://shields.io" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## 🚀 About Me
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Coding Animation" />

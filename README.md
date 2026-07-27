@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&lines=YOU+ARE+WATCHING+A+MASTER+AT+WORK.;Software+Engineering;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ilyassboudade?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ilyass?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
-</p>
+</p> --!>
 
 ## 🚀 About Me
 

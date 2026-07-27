@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ilyassboudade?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ilyass?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
+  <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="WakaTime" />
 </p> -->
 
 <div align="center">
@@ -81,79 +82,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilyassboudade&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilyassboudade&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyassboudade&amp;custom_title=Activity%20Graph&amp;bg_color=0d1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 💡 Skills Breakdown
-
-<div align="center">
-  
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
-| **Frontend** | React, TypeScript, HTML/CSS, Tailwind | ████████████ 95% |
-| **Backend** | Node.js, Express, PHP, Flask | ████████████ 92% |
-| **Database** | MongoDB, MySQL, SQL Server | ████████████ 88% |
-| **AI/ML** | Python, TensorFlow, Computer Vision | ████████████ 85% |
-| **Mobile** | Flutter, React Native | ████████████ 75% |
-| **DevOps** | Docker, Git, JIRA | ████████████ 85% |
-
-</div>
-
----
-
-## 🎨 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Random Quote" />
-</div>
-
----
-
-## 🌟 Fun Facts & Achievements
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🏆 Achievements
-- 🥇 **Top BTS Graduate** in Software Development
-- 🚀 **5+ Full-Stack Projects** built in 2024-2025
-- 🤖 **AI Specialist** in Computer Vision
-- 🌍 **Multilingual** (French, English, Arabic)
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 Current Goals
-- 📚 Master **Deep Learning** architectures
-- 🏗️ Build **scalable AI systems**
-- 🌐 Contribute to **open source** projects
-- 🎓 Complete **AI Engineering** degree
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=radical" alt="Quote" />
-
-</div>
-
----
-
-## 📈 Coding Time
-
-<div align="center">
-  <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="WakaTime" />
 </div>
 
 ---

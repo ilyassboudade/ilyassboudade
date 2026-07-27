@@ -20,7 +20,7 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td style="padding-bottom: 18px;">
-              <div style="font-size: 24px; font-style:bold; margin-bottom: 4px;">Full Name</div>
+              <div style="font-size: 24px; margin-bottom: 4px;"><b>Full Name</b></div>
               <div style="font-size: 18px; color: #E0E2EC;">Ilyass BOUDADE</div>
             </td>
           </tr>

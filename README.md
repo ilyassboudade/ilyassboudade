@@ -16,7 +16,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Left Column: Personal Information -->
       <td valign="top" style="padding-right: 20px;">
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
@@ -48,29 +47,21 @@
           </tr>
         </table>
       </td>
-      
-      <!-- Right Column: Profile Picture -->
       <td valign="top" align="right" width="180">
-        <!-- REPLACE THE IMAGE URL BELOW WITH YOUR GITHUB IMAGE OR AN IMAGE LINK -->
         <img src="https://github.com" width="170" height="170" style="object-fit: cover; border: 1px solid rgba(255,255,255,0.1);" alt="Ilyass BOUDADE" />
       </td>
     </tr>
-    
-    <!-- Bottom Footer Row -->
     <tr>
       <td colspan="2" style="border-top: 1px solid rgba(255, 255, 255, 0.4); padding-top: 20px;">
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td align="left">
-              <!-- GitHub Link -->
               <a href="https://github.com" style="text-decoration: none; margin-right: 15px;">
                 <img src="https://shields.io" height="28" style="vertical-align: middle;" />
               </a>
-              <!-- Behance Link -->
               <a href="https://behance.net" style="text-decoration: none; margin-right: 15px;">
                 <img src="https://shields.io" height="28" style="vertical-align: middle;" />
               </a>
-              <!-- CV / Resume Link -->
               <a href="https://your-cv-link.com" style="text-decoration: none;">
                 <img src="https://shields.io" height="28" style="vertical-align: middle;" />
               </a>

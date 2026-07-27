@@ -52,9 +52,6 @@
               <a href="https://codeberg.org/ilyassboudade" style="text-decoration: none; margin: 0 10px;">
                 <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" height="28" style="vertical-align: middle;" alt="Codeberg" />
               </a>
-              <a href="https://behance.net/ilyassboudade" style="text-decoration: none; margin: 0 10px;">
-                <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" height="28" style="vertical-align: middle;" alt="Behance" />
-              </a>
               <a href="" style="text-decoration: none; margin: 0 10px;">
                 <img src="https://img.shields.io/badge/Resume/CV-000000?style=for-the-badge&logo=docsend&logoColor=white" height="28" style="vertical-align: middle;" alt="CV" />
               </a>

@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&center=true&lines=YOU+ARE+WATCHING+A+MASTER+AT+WORK.;Software+Engineering;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering" alt="Typing SVG" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ilyassboudade?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ilyass?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
-  <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="WakaTime" />
-</p> -->
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="550" style="background-color: #24305E; border-radius: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #FFFFFF; padding: 40px; border-collapse: separate;">
     <tr>
@@ -78,18 +71,15 @@
 - 🔭 Currently working on **Data Centric and AI-Powered Software Solutions**
 - 🫱🏻‍🫲🏻 Willing to collaborate on any kind of **Open Source Projects**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ilyassboudade?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ilyass?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
+  <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="WakaTime" />
+</p>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilyassboudade&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilyassboudade&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyassboudade&amp;custom_title=Activity%20Graph&amp;bg_color=0d1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  
-### 🐍 Watch my contribution graph get eaten by a snake!
-
-<img src="https://raw.githubusercontent.com/ilyassboudade/ilyassboudade/output/github-snake.svg" alt="Snake Animation" />
-
 </div>

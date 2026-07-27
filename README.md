@@ -77,46 +77,13 @@
 - 🔭 Currently working on **Data Centric and AI-Powered Software Solutions**
 - 🫱🏻‍🫲🏻 Willing to collaborate on any kind of **Open Source Projects**
 
-## 📊 Analytics
+## 📊 Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilyassboudade&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilyassboudade&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilyassboudade&amp;custom_title=Activity%20Graph&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilyassboudade&amp;custom_title=Activity%20Graph&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyassboudade&amp;custom_title=Activity%20Graph&amp;bg_color=0d1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyassboudade&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;stroke=00D4FF&amp;ring=00D4FF&amp;fire=00D4FF&amp;currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ilyassboudade&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🏢 Gestion Pilotage - Enterprise Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyassboudade&amp;repo=gestion_pilotage&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/ilyassboudade/gestion_pilotage)
-
-### ⚽ Football Prediction - AI Sports Analytics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyassboudade&amp;repo=PredictionFootBalll&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/ilyassboudade/PredictionFootBalll)
-
-### 🚗 Car Price Prediction - ML Price Estimator
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyassboudade&amp;repo=PFM&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/ilyassboudade/PFM)
-
-### 👥 Recruitment Management - HR Tech Solution
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyassboudade&amp;repo=Gestion_Recrutement&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/ilyassboudade/Gestion_Recrutement)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyassboudade&amp;custom_title=Aymen's%20Activity%20Graph&amp;bg_color=0d1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
 
 ---
 

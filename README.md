@@ -75,8 +75,3 @@
   <img src="https://img.shields.io/github/followers/ilyassboudade?color=dfddcf&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ilyass?color=dfddcf&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
 </p>
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="Uptime" />
-  </a>
-</p>

@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&lines=YOU+ARE+WATCHING+A+MASTER+AT+WORK.;Software+Engineering;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=3000&pause=1000&color=534d41&width=650&center=true&lines=YOU+ARE+WATCHING+A+MASTER+AT+WORK.;Software+Engineering;AI+Engineering;Machine+Learning;Deep+Learning;Computer+Vision;Data+Science;Data+Engineering" alt="Typing SVG" />
+</p>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilyassboudade&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
